@@ -1,0 +1,12 @@
+[
+  {
+    "post_type": "post",
+    "core_fields": [""],
+    "meta_fields": [""],
+    "core_indices":[""],
+    "meta_indices":[""],
+    "attachment_meta_keys":["_thumbnail_id","_product_image_gallery"],
+    "image_sizes":["full","woocommerce_single"],
+    "update_taxonomy_dictionary": true
+  }
+]
