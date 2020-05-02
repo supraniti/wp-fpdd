@@ -1,9 +1,9 @@
 [
   {
     "post_type": "post",
-    "core_fields": [""],
+    "core_fields": ["post_title","post_modified","post_content","post_excerpt"],
     "meta_fields": [""],
-    "core_indices":[""],
+    "core_indices":["post_title","post_modified"],
     "meta_indices":[""],
     "attachment_meta_keys":["_thumbnail_id","_product_image_gallery"],
     "image_sizes":["full","woocommerce_single"],
